@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@screenplay/*": ["cypress/support/screenplay/*"],
+        "@tasks/*": ["cypress/support/screenplay/tasks/*"],
+      }
+    }
+  }
