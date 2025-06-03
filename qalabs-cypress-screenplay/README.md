@@ -1,6 +1,6 @@
 # QA Labs - Cypress Screenplay Implementation
 
-This project is a practical implementation of the **Screenplay Pattern** using **Cypress** for end-to-end testing. The tests are designed to validate the functionality of the productivity dashboard at [qalabs.guseche.com](https://qalabs.guseche.com).
+This project is a practical implementation of the **Screenplay Pattern** using **Cypress** for end-to-end testing. The tests are designed to validate the functionality of the QA Labs  at [qalabs.guseche.com](https://qalabs.guseche.com).
 
 ## 🎯 Project Overview
 
